@@ -1,0 +1,13 @@
+# Only the website itself goes to GitHub.
+# Raw files in this folder stay on this Mac.
+/*
+!/index.html
+!/portfolio.html
+!/assets/
+!/.gitignore
+!/README.md
+
+# old carousel images the site no longer uses
+/assets/work/
+
+.DS_Store
